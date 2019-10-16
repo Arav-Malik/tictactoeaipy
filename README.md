@@ -1,1 +1,2 @@
 # tictactoeaipy
+# zero kaata
